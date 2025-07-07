@@ -1,1 +1,1 @@
-Learning nextJS from docs
+learning Next Js from Next JS Docs today
