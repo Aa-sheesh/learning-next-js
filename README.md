@@ -1,1 +1,0 @@
-learning Next Js from Next JS Docs today
